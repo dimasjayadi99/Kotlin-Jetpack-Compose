@@ -1,8 +1,7 @@
-package com.example.belajarkotlinjetpackcompose.viewmodel
+package com.example.belajarkotlinjetpackcompose.presentation.splash
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.belajarkotlinjetpackcompose.presentation.splash.SplashUiState
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow
